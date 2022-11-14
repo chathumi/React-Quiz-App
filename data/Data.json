@@ -1,0 +1,52 @@
+{
+  "QuestionList": [
+    {
+      "question": "Which of the following is used in React.js to increase performance?",
+      "correctOption": "1",
+      "options": [
+        "Virtual Dom",
+        "Original Dom",
+        "Both A and B",
+        "XML DOM ",
+        "None of the above"
+      ],
+      "id": 1
+    },
+    {
+      "question": "What is a state in React?",
+      "correctOption": "2",
+      "options": [
+        "A permanent storage",
+        "Internal storage of the component.",
+        "External storage of the component.",
+        "Internal and External storage of the component.",
+        "None of the above."
+      ],
+      "id": 2
+    },
+    {
+      "question": "What are the two ways to handle data in React?",
+      "correctOption": "1",
+      "options": [
+        "State & Props",
+        "Services & Components",
+        "State & Services",
+        "State & Component",
+        "Props & Component"
+      ],
+      "id": 3
+    },
+    {
+      "question": "Which of the following is used to pass data to a component from outside in React.js",
+      "correctOption": "3",
+      "options": [
+        "SetState",
+        "Render with arguments",
+        "Props",
+        "PropTypes",
+        "None of the above"
+      ],
+      "id": 4
+    }
+  ]
+}
